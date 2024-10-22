@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: chartreuse;
+    width: 100%;
+    position: fixed;
+    /*if margin 0 ans width 100% not here*/
+    /* top: 0;
+    left: 0;
+    right: 0; */
+}
+main{
+    padding-top: 40px;  
+    /* lorem should be visible */  
+}
